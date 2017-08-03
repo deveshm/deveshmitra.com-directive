@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/deveshmitra
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://deveshmitra.com
+  * I am deveshmitra (https://keybase.io/deveshmitra) on keybase.
+  * I have a public key with fingerprint DF6B 52BE 40D8 A512 589E  0C37 C55A A3F5 F0DE 05A4
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208736459a397efc1a08eb7f5330cce513211f4d04e6c0d00c543160d76338638b0a",
+      "fingerprint": "df6b52be40d8a512589e0c37c55aa3f5f0de05a4",
+      "host": "keybase.io",
+      "key_id": "c55aa3f5f0de05a4",
+      "kid": "0101496e6769ccf6f45652bf37a7c23c328fa0f6368b9c72c96b5997a7b9957374340a",
+      "uid": "1cc19c95ed1f560cabf5b796a3a52c19",
+      "username": "deveshmitra"
+    },
+    "merkle_root": {
+      "ctime": 1501774244,
+      "hash_meta": "c2d5982766260035dd4ae61f56e8280a25ac4a586d6c76b5623ec4a55e53199e",
+      "seqno": 1300429
+    },
+    "revoke": {
+      "sig_ids": [
+        "19236346d3f1999762b0ac9e1692b45547b875f29f454bf2610aed946145cb8c0f"
+      ]
+    },
+    "service": {
+      "hostname": "deveshmitra.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1501774313,
+  "expire_in": 157680000,
+  "prev": "e0da84eccb876397eb836356d6e4ab2f8199d3634f65967f492376a55ef7f9c1",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMP6AnicbVN7bBRFGL8KVCwllKdSsOASAaGU2Z3H7hwqjxJItSFRigULPXZnZ3vn
+9R7cba9FKCHyKNQgDRUBwUh72EABk6pIgxahCDEFSyMaoQkINEIBY0pDKVQEZxtJ
+NLr/THa+7/u9ZubbgX1cSQkn34x3dVzqtyfhdOPKIteiNTNvrJCMkLlccq+Q/Lx3
+4YUmj9oev8+U3BKQFaCpkCBMdUhVbjFZBxo3VAtDCBjjWIaKLFvIBIgTBkwAGEZQ
+JsBUCYQagZoBdCldsnzBAh4JR3xBW8CaFjGwYnAETE3HsoI1ygGDKsNY16GFLWBy
+gHUkBr2hqDMhxBl6lGf4QmJP/Hh65f1P/2PdQEaUcKISyphFLISJILSgqqtMgQwq
+mqUDi0CiGZSpCqNCEKWialCKVagiiHp1F/XCyYzJlFHMTdnCBDDdsLChUqJDHSui
+5DRGeSSoB7jjjsd41Bvw2RFdKk2XAjziL+SeSChkO/ky2+d0yRjIqooUhIRHPer1
+BLitO5YUE1NNUQlRCAAQmybSOXFouaZoQFewzpCONWISpgrRRIHc2cAcQ5lSLqRE
++bJgSDBAAJBChYIIj4X83CGP+gpEclHJnSfJVIEEImJCS8xRlSjipBjlMqGKgTBG
+qqGp2FKoyA4ZlkJkoHOTIiIjzAyNAUtaUuqQRWI+1gvuHNV/I8hgoYAQFY6E7BAL
+FYqi17bDUbcTjb087HQXc8PzN47H8AVNcVfERIxHor5QUBgRnf9ODcowXeIlYV+E
+e3xOB1aJBsTn8PCYgOTA1DXEmVAqLqK4uYYm3GKRGke6oVia8Gw6/i2CKVEtJNJQ
+iROjpVqUyf+IURU69QKBKcIL6nZRhEuljccX93UlJLkS+z3hPCJX0lMpj5/Wokcp
+rvWVsbpNW/al4l1XR3e7b8/uiA8dntJ9JEP77gXj4q143ZRbIxY0nTlW85Lrbmxe
+8mcjVlWsPHe18vSXl+LGgmOVc3uuB8rWdvQ/v+z9OwfR+hOoPR/GL+fOH3/eU3J4
+86QNeSfiC7ev6Nzantq8emnSuzfQkOq6NXbJ6uzD20zjxUDWyZqmDx7Ud/74ZJ+G
+EeN+yp7f0P7MoKVvXV83uK107FmvvXZy+ZjFycH35v06e9gX5dPT/ni2/JXM3KLU
+2T2UtHxVlbl/z+6W8oVXBx35Ze/qkbfnVJyqTPwQdBWezesqPjVg8ZKql3dlXqtW
+J5PawbkpYz7qunf34dP2GH/zwVlZ53Y+Kq72/jl5Slt2bv9J44h17vX0y12fH6ID
+yrTmoyd2V1S/mvJzT0/9/oE5Vw5tzUgbf9O/fc3lURv0lu+HTPJm1b1dotXsvNkd
+zkicfqD1QMOq+taDbTWFBmqtOtLZ0vBQvvBpwr2RmfvM+33TruTOsQoevtZ3Q6y5
+LNqafybHd6eehtcmuEd/052VOnZCd7c6ynP8ZGH6sOn+2hz3kM7nan+fmO/i1R+3
+DWUTHyROWDjDdpVtzj/aMW1b3ifSjHFbM8xZwQUVG7XWAZt+25KDcSI6lfp87rXG
+xrr+OyJ727NH3U8snlg79Z32+I5+wbTkpprhzU1zO3/Ytvfi1xeWbZTPbKpZ+kby
+utZpB+5VTf0L1aIDUA==
+=IQ32
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/deveshmitra
+
+==================================================================
